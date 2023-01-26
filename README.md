@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to work in **Startups**
 
-- 👨‍💻 All of my projects are available at [shivam/521](shivam/521)
+- 👨‍💻 All of my projects are available at [shivam521](shivam/521)
 
 - 💬 Ask me about **Any doubts related Android**
 
